@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 9 tehreemmubashar36 tehreemmubashar36 4096 Oct 16 05:55 .
+drwxr-xr-x 3 root              root              4096 Sep 12 11:42 ..
+-rw------- 1 tehreemmubashar36 tehreemmubashar36 2784 Oct 16 04:49 .bash_history
+-rw-r--r-- 1 tehreemmubashar36 tehreemmubashar36  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 tehreemmubashar36 tehreemmubashar36 3771 Feb 13  2026 .bashrc
+drwx------ 2 tehreemmubashar36 tehreemmubashar36 4096 Sep 12 11:59 .cache
+-rw-rw-r-- 1 tehreemmubashar36 tehreemmubashar36  197 Oct 16 05:51 .gitconfig
+-rw------- 1 tehreemmubashar36 tehreemmubashar36   20 Oct 16 05:55 .lesshst
+drwx------ 3 tehreemmubashar36 docker            4096 Oct  5 06:59 .local
+-rw-r--r-- 1 tehreemmubashar36 tehreemmubashar36  807 Feb 13  2026 .profile
+drwx------ 2 tehreemmubashar36 tehreemmubashar36 4096 Oct 16 05:49 .ssh
+drwxrwxr-x 3 tehreemmubashar36 docker            4096 Oct  5 08:10 Assignment01
+drwxrwxr-x 3 tehreemmubashar36 tehreemmubashar36 4096 Oct  5 05:58 Gitea
+drwxrwxr-x 5 tehreemmubashar36 tehreemmubashar36 4096 Oct 16 05:53 lab05-linux
+drwxrwxr-x 2 tehreemmubashar36 tehreemmubashar36 4096 Sep 18 17:58 mylab
+-rw------- 1 tehreemmubashar36 tehreemmubashar36  464 Oct 16 04:02 no
+-rw-r--r-- 1 tehreemmubashar36 tehreemmubashar36  104 Oct 16 04:02 no.pub
